@@ -8,4 +8,4 @@ This project created by HTML/CSS "this is my first project for full stack develo
 
 ## Qanday ko'rish mumkin?
 you can see my project here :
-[https://sdvp-3.github.io/01-Project/]
+[https://sdvp-3.github.io/01-project/]
